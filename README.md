@@ -1,5 +1,5 @@
 ﻿# RCC-Gene-Expression-Analysis
- 
+  
 This project investigates whether gene expression patterns from RNA sequencing (RNA-seq) can distinguish clear cell renal cell carcinoma (ccRCC) from non-clear cell renal cell carcinoma (nccRCC).
 
 
